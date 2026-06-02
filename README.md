@@ -3,6 +3,7 @@
 ## Project Overview
 This project analyzes payment transaction data using Power BI to monitor transaction success rates, failure reasons, merchant performance, city-wise transaction volume, and revenue trends.
 
+
 ## Business Objective
 The objective is to help a fintech/payment company track key operational metrics and identify transaction failure patterns to improve payment success rate and merchant experience.
 
@@ -41,8 +42,6 @@ The objective is to help a fintech/payment company track key operational metrics
 - Focus merchant support on high-volume and high-revenue categories.
 - Track city-wise performance to identify regional transaction trends.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard.png)
 
 ## Project Type
 Power BI | Business Operations Analytics | FinTech Analytics# payment-operations-analytics-dashboard
